@@ -1,0 +1,30 @@
+_repo: The-Treasure-of-Hidden-Valley_52461
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emerson, Willis George
+    alias: Emerson, Willis G. (Willis George)
+    birthdate: 1856
+    deathdate: 1918
+    gutenberg_agent_id: '1085'
+    url: http://www.gutenberg.org/2009/agents/1085
+description: Includes afterword on the 1906 San Francisco earthquake and fire.
+gutenberg_issued: '2016-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco Earthquake and Fire, Calif., 1906'
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Wyoming -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Political fiction'
+- !lcsh 'Ranch life -- Fiction'
+- GITenberg
+title: The Treasure of Hidden Valley
+url: http://www.gutenberg.org/ebooks/52461
