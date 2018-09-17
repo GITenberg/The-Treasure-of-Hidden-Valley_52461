@@ -1,5 +1,8 @@
 _repo: The-Treasure-of-Hidden-Valley_52461
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52461-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerson, Willis George
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1085'
     url: http://www.gutenberg.org/2009/agents/1085
 description: Includes afterword on the 1906 San Francisco earthquake and fire.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52461#The-Treasure-of-Hidden-Valley
 gutenberg_issued: '2016-06-30'
 gutenberg_type: Text
 identifiers:
